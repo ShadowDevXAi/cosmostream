@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+motor
+pyrogram
+bcrypt
+shortuuid
+python-dotenv
+pydantic[email]
+email-validator
+python-multipart
+tgcrypto
+httpx
+razorpay
+cryptography
+--pre yt-dlp
